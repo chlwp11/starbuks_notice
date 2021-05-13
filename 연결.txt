@@ -1,0 +1,1 @@
+localhost/ajax/json
